@@ -17,7 +17,7 @@ import { Card } from 'react-bootstrap'
 
 
 const MiddlePart = () => {
-  
+
   useEffect(() => {
     const handleScroll = () => {
       const elementOne = document.querySelectorAll('.reveal');
@@ -73,13 +73,13 @@ const MiddlePart = () => {
           </div>
           <div className="col-12 col-md-6">
             <div className=' d-flex flex-row justify-content-center'>
-            <div className="overlay-container">
-              <img
-                src={maledoc3}
-                alt="overlay"
-                className="overlay-image"
-              />
-            </div>
+              <div className="overlay-container">
+                <img
+                  src={maledoc3}
+                  alt="overlay"
+                  className="overlay-image"
+                />
+              </div>
             </div>
             <div className=" reveal reveal-card">
               <Card className="reveal-profile-card card-1">
@@ -121,21 +121,21 @@ const MiddlePart = () => {
               />
             </div>
             <div className="reveal-2 reveal-card-2" >
-          <Card className="reveal-profile-card card-3">
-            <Card.Body>
-              <Card.Title className="card-title-2">
-                <img src={doctorProfile4} alt="Doctor Profile" className="doctor-profile-img" />
-                <span className="profile-name-2">Dr. Mamtha</span>
-              </Card.Title>
-              <p className="bar-image-1 "><img src={largebar} alt="Large Bar" /></p>
-              <p className="bar-image-2"><img src={smallbar} alt="Small Bar" /></p>
-              <Card.Text>Specialities</Card.Text>
-               <p className="bar-image-3 "><img src={largebar} alt="Large Bar" /></p>
-              <Card.Text>detailed profile</Card.Text>
-              <p className="bar-image-4"><img src={largebar} alt="Large Bar" /></p>
-            </Card.Body>
-          </Card>
-        </div>
+              <Card className="reveal-profile-card card-3">
+                <Card.Body>
+                  <Card.Title className="card-title-2">
+                    <img src={doctorProfile4} alt="Doctor Profile" className="doctor-profile-img" />
+                    <span className="profile-name-2">Dr. Mamtha</span>
+                  </Card.Title>
+                  <p className="bar-image-1 "><img src={largebar} alt="Large Bar" /></p>
+                  <p className="bar-image-2"><img src={smallbar} alt="Small Bar" /></p>
+                  <Card.Text>Specialities</Card.Text>
+                  <p className="bar-image-3 "><img src={largebar} alt="Large Bar" /></p>
+                  <Card.Text>detailed profile</Card.Text>
+                  <p className="bar-image-4"><img src={largebar} alt="Large Bar" /></p>
+                </Card.Body>
+              </Card>
+            </div>
           </div>
           <div className="col-12 col-md-6 col-second mt-5 pt-lg-5 ">
             <div className="heading">LOREM ISPUM</div>

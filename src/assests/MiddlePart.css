@@ -57,13 +57,15 @@ body{
 
 .overlay-image {
     width: 100%;
-    height: 75vh;
-}
+    height: auto;
+    max-height: 75vh;
+  }
 
-.overlay-image-2 {
+  .overlay-image-2 {
     width: 100%;
-    height: 75vh;
-}
+    height: auto;
+    max-height: 75vh;
+  }
 
 .x-image1 {
     position: relative;
@@ -386,7 +388,7 @@ body{
     margin-left: 10px;
 }
 
-@media (min-width : 541px) and (max-width: 992px) {
+@media (min-width : 541px) and (max-width: 1024px) {
     .overlay-image {
         width: 40vw;
         height: auto;
@@ -431,14 +433,14 @@ body{
 
 .reveal-2 {
     opacity: 0 !important;
-    transform: translate(25%, 110%) !important;
+    transform: translate(35%, 110%) !important;
     transition: opacity 0.5s, transform 1.2s ease !important;
 }
 
 .reveal_visible-2 {
     padding: 0 !important;
     opacity: 1 !important;
-    transform: translate(25%, 60%) !important;
+    transform: translate(35%, 60%) !important;
 }
 
 .reveal-card-2 {
@@ -582,5 +584,35 @@ body{
     }
 
 }
+@media only screen and (min-width: 1399px) {
+    .reveal {
+        opacity: 0 !important;
+        transform: translate(-9%, -15%) !important;
+        transition: opacity 1s, transform 1.2s ease !important;
+    }
+    
+    .reveal_visible {
+        opacity: 1 !important;
+        transform: translate(-9%, -135%) !important;
+    }
+    
+    .reveal-2 {
+        opacity: 0 !important;
+        transform: translate(45%, 210%) !important;
+        transition: opacity 1s, transform 1.2s ease !important;
+    }
 
+    .reveal_visible-2 {
+        opacity: 1 !important;
+        transform: translate(45%, 130%) !important;
+    }
+    .col-first{
+        padding-top: 6rem !important;
+        /* padding-left: 5rem; */
+    }
+    .col-second{
+        padding-top: 6rem !important;
+        padding-left: 5rem;
+    }
+}
 
