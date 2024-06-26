@@ -46,6 +46,7 @@ const MiddlePart = () => {
     };
   }, []);
   return (
+    <>
     <div className='main-section'>
       <div className="x-image1">
         <img src={xImage} alt="X-Image" className="overlay" />
@@ -162,6 +163,7 @@ const MiddlePart = () => {
         </div>
       </div>
     </div>
+    </>
   )
 }
 
