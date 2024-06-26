@@ -3,7 +3,7 @@
     color: #0167ff;
     font-weight: 600;
 }
-.heading span{
+.main-heading span{
     color: #0167ff !important;
 }
 
@@ -28,13 +28,13 @@
 .mail-form{
     margin-top: 70px;
     background-color: #dbe8ff;
-    padding: 100px 100px;
+    padding: 60px 100px;
     border-radius: 10px;
 }
 .mail-form div{
     margin-right: 200px;
 }
-.mail-form h2{
+.mail-form h4{
     color: #0167ff !important;
 }
 .mail-form p {
@@ -48,15 +48,15 @@
   }
   
   .mail-form input {
-    padding: 10px;
+    padding: 15px 50px;
     font-size: 1em;
-    margin-right: 10px;
+    /* margin-right: 10px; */
     border: 1px solid #ccc;
     border-radius: 4px;
   }
   
   .mail-form button {
-    padding: 10px 20px;
+    padding: 15px 20px;
     font-size: 1em;
     background-color: #007bff;
     color: #fff;
