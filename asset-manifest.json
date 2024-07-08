@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gwa-Raghavan/static/css/main.aab6a0cd.css",
-    "main.js": "/gwa-Raghavan/static/js/main.609b04d8.js",
+    "main.css": "/gwa-Raghavan/static/css/main.2ead5cd4.css",
+    "main.js": "/gwa-Raghavan/static/js/main.6481177c.js",
     "static/js/453.3c8f0702.chunk.js": "/gwa-Raghavan/static/js/453.3c8f0702.chunk.js",
     "static/media/gwa-trailer.mp4": "/gwa-Raghavan/static/media/gwa-trailer.336ac15ab9feb342c476.mp4",
     "static/media/doctorImage.png": "/gwa-Raghavan/static/media/doctorImage.f841d300afb71ab59efb.png",
@@ -34,12 +34,12 @@
     "static/media/medical_services.svg": "/gwa-Raghavan/static/media/medical_services.9bdef10766ede8d732e89ad44c090d5b.svg",
     "static/media/video_call.svg": "/gwa-Raghavan/static/media/video_call.36027d127f91507a7737c415a8556a44.svg",
     "static/media/ThumbsUp.svg": "/gwa-Raghavan/static/media/ThumbsUp.cb538760b41079e2856c4684ef3320be.svg",
-    "main.aab6a0cd.css.map": "/gwa-Raghavan/static/css/main.aab6a0cd.css.map",
-    "main.609b04d8.js.map": "/gwa-Raghavan/static/js/main.609b04d8.js.map",
+    "main.2ead5cd4.css.map": "/gwa-Raghavan/static/css/main.2ead5cd4.css.map",
+    "main.6481177c.js.map": "/gwa-Raghavan/static/js/main.6481177c.js.map",
     "453.3c8f0702.chunk.js.map": "/gwa-Raghavan/static/js/453.3c8f0702.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aab6a0cd.css",
-    "static/js/main.609b04d8.js"
+    "static/css/main.2ead5cd4.css",
+    "static/js/main.6481177c.js"
   ]
 }
