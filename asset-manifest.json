@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gwa-Raghavan/static/css/main.95855add.css",
-    "main.js": "/gwa-Raghavan/static/js/main.d88aa31f.js",
+    "main.js": "/gwa-Raghavan/static/js/main.1e97b009.js",
     "static/js/453.3c8f0702.chunk.js": "/gwa-Raghavan/static/js/453.3c8f0702.chunk.js",
     "static/media/gwa-trailer.mp4": "/gwa-Raghavan/static/media/gwa-trailer.336ac15ab9feb342c476.mp4",
     "static/media/doctorImage.png": "/gwa-Raghavan/static/media/doctorImage.f841d300afb71ab59efb.png",
@@ -37,11 +37,11 @@
     "static/media/video_call.svg": "/gwa-Raghavan/static/media/video_call.36027d127f91507a7737c415a8556a44.svg",
     "static/media/ThumbsUp.svg": "/gwa-Raghavan/static/media/ThumbsUp.cb538760b41079e2856c4684ef3320be.svg",
     "main.95855add.css.map": "/gwa-Raghavan/static/css/main.95855add.css.map",
-    "main.d88aa31f.js.map": "/gwa-Raghavan/static/js/main.d88aa31f.js.map",
+    "main.1e97b009.js.map": "/gwa-Raghavan/static/js/main.1e97b009.js.map",
     "453.3c8f0702.chunk.js.map": "/gwa-Raghavan/static/js/453.3c8f0702.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95855add.css",
-    "static/js/main.d88aa31f.js"
+    "static/js/main.1e97b009.js"
   ]
 }
